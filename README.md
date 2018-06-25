@@ -6,9 +6,9 @@ This is an old project I made back when I was in college (2010). I fixed some of
 Only runs on 32-bit Windows.
 
 ## Building and Running
-You need 'Turbo Assembler 5 (TASM)' or any compatible assembler. Edit 'build_and_run.bat' so that it points to the correct paths of 'tasm.exe' and 'tlink.exe'. 
+You need _Turbo Assembler 5 (TASM)_ or any compatible assembler. Edit `build_and_run.bat` so that it points to the correct paths of `tasm.exe` and `tlink.exe`. 
 
-Running the batch file would generate the '.exe' file inside the 'bin' folder and would then run it automatically.
+Running the batch file would generate the `.exe` file inside the `bin` folder and would then run it automatically.
 
 ## How to Play
 Click on an empty tile using your mouse, enter any character from your keyboard, press the Enter key to accept your entry. Level ends when you have filled the whole board.
